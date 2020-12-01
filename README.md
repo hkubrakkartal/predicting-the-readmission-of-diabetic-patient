@@ -42,6 +42,7 @@ The data set represents 10 years (1999-2008) of clinical care at 130 US hospital
 *	The length of stay was at least 1 day and at most 14 days.
 *	Laboratory tests were performed during the encounter.
 *	Medications were administered during the encounter.
+
 The data contains such attributes as patient number, race, gender, age, admission type, time in hospital, medical specialty of admitting physician, number of lab test performed, HbA1c test result, diagnosis, number of medication, diabetic medications, number of outpatient, inpatient, and emergency visits in the year before the hospitalization, etc."
 
 **The following steps were followed in this project:**
